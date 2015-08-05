@@ -1,0 +1,10 @@
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.BL.WPFBusiness.dll
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.BL.WPFBusiness.pdb
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.BL.WPFBusiness\obj\Debug\Plugin.BL.WPFBusiness.dll
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.BL.WPFBusiness\obj\Debug\Plugin.BL.WPFBusiness.pdb
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.BL.WPFBusiness\obj\Debug\Plugin.BL.WPFBusiness.csprojResolveAssemblyReference.cache
+F:\插件式框架\MailDll\Plugin.BL.WPFBusiness.dll
+F:\插件式框架\MailDll\Plugin.BL.WPFBusiness.pdb
+F:\插件式框架\Plugin.PlatForm\Plugin.BL.WPFBusiness\obj\Debug\ResolveAssemblyReference.cache
+F:\插件式框架\Plugin.PlatForm\Plugin.BL.WPFBusiness\obj\Debug\Plugin.BL.WPFBusiness.dll
+F:\插件式框架\Plugin.PlatForm\Plugin.BL.WPFBusiness\obj\Debug\Plugin.BL.WPFBusiness.pdb

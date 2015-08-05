@@ -1,0 +1,9 @@
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.Framework.dll
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.Framework.pdb
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.Framework\obj\Debug\Plugin.Framework.dll
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.Framework\obj\Debug\Plugin.Framework.pdb
+F:\插件式框架\MailDll\Plugin.Framework.dll
+F:\插件式框架\MailDll\Plugin.Framework.pdb
+F:\插件式框架\Plugin.PlatForm\Plugin.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\插件式框架\Plugin.PlatForm\Plugin.Framework\obj\Debug\Plugin.Framework.dll
+F:\插件式框架\Plugin.PlatForm\Plugin.Framework\obj\Debug\Plugin.Framework.pdb
